@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="javaEE_transaction_dbcp"
+  id="myeclipse.1508225639250"
+  context-root="/javaEE_transaction"
+  j2ee-spec="5.0"
+  archive="javaEE_transaction_dbcp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
